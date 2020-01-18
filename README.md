@@ -1,2 +1,3 @@
 # Design3-MasterAssignmentRepo
-To hold assignments and responses.
+
+Pleases leave a note to let me know you visited! Thanks for calling!
